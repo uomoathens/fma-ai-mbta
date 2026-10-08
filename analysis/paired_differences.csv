@@ -1,0 +1,13 @@
+split,indicator,comparison,mean_difference,ci95
+train,dE,FMA-AI (FedAvg) minus Centralised,-0.0459,0.1079
+train,dE,FMA-AI (FedAvg) minus Non-Federated MARL,-0.1191,0.1136
+train,dE,Non-Federated MARL minus Centralised,0.0732,0.1079
+train,OTP,FMA-AI (FedAvg) minus Centralised,0.0681,0.1721
+train,OTP,FMA-AI (FedAvg) minus Non-Federated MARL,0.0747,0.1486
+train,OTP,Non-Federated MARL minus Centralised,-0.0066,0.1517
+holdout,dE,FMA-AI (FedAvg) minus Centralised,0.0815,0.0782
+holdout,dE,FMA-AI (FedAvg) minus Non-Federated MARL,0.8771,0.0589
+holdout,dE,Non-Federated MARL minus Centralised,-0.7956,0.0604
+holdout,OTP,FMA-AI (FedAvg) minus Centralised,-0.18,0.1659
+holdout,OTP,FMA-AI (FedAvg) minus Non-Federated MARL,-1.7695,0.1185
+holdout,OTP,Non-Federated MARL minus Centralised,1.5895,0.1281

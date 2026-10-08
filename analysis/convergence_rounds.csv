@@ -1,0 +1,4 @@
+method,median,min,max,count
+Centralised,143.0,89.0,185.0,20
+FMA-AI (FedAvg),215.0,159.0,246.0,20
+Non-Federated MARL,,,,0

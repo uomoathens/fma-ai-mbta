@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "FMA-AI: Federated Multi-Agent AI for Energy-Aware Public Transport (MBTA GTFS)"
+authors:
+  - family-names: Sargiotis
+    given-names: Dimitrios
+    affiliation: "National Technical University of Athens"
+license: MIT
+date-released: 2026-10-08
+preferred-citation:
+  type: article
+  title: "Federated Multi-Agent AI for Privacy-Preserving, Energy-Aware Optimisation of Public Transport Systems"
+  authors:
+    - family-names: Sargiotis
+      given-names: Dimitrios
+      affiliation: "National Technical University of Athens"
+  year: 2026
+  journal: "SSRN Electronic Journal"
+  doi: "10.2139/ssrn.5577250"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5577250"
