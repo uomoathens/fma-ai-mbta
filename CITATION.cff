@@ -6,7 +6,10 @@ authors:
     given-names: Dimitrios
     affiliation: "National Technical University of Athens"
 license: MIT
+version: v1.0
 date-released: 2026-10-08
+doi: "10.5281/zenodo.23242130"
+repository-code: "https://github.com/uomoathens/fma-ai-mbta"
 preferred-citation:
   type: article
   title: "Federated Multi-Agent AI for Privacy-Preserving, Energy-Aware Optimisation of Public Transport Systems"

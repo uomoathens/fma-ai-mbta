@@ -1,5 +1,7 @@
 # FMA-AI: Federated Multi-Agent AI for Energy-Aware Public Transport (MBTA GTFS)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23242130.svg)](https://doi.org/10.5281/zenodo.23242130)
+
 Code, data and results for the paper:
 
 > Sargiotis, D. (2026). *Federated Multi-Agent AI for Privacy-Preserving, Energy-Aware Optimisation of Public Transport Systems* (revised version, October 2026). SSRN. https://doi.org/10.2139/ssrn.5577250
@@ -58,4 +60,12 @@ Code (`fma_mbta.m`, `analysis/`) is released under the MIT License (see `LICENSE
 
 ## Citation
 
-See `CITATION.cff`, or cite the SSRN paper above.
+Paper:
+
+> Sargiotis, D. (2026). *Federated Multi-Agent AI for Privacy-Preserving, Energy-Aware Optimisation of Public Transport Systems* (revised version, October 2026). SSRN. https://doi.org/10.2139/ssrn.5577250
+
+Code, data and results (this repository, archived on Zenodo):
+
+> Sargiotis, D. (2026). *FMA-AI: Federated multi-agent AI for energy-aware public transport (MBTA GTFS)* (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23242130
+
+See also `CITATION.cff`.
