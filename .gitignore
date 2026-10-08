@@ -1,0 +1,5 @@
+mbta_gtfs/
+/results/*.csv
+/results/*.png
+__pycache__/
+*.asv
