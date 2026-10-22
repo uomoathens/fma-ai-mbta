@@ -1,6 +1,6 @@
 # FMA-AI: Federated Multi-Agent AI for Energy-Aware Public Transport (MBTA GTFS)
 
-**Dimitrios Sargiotis** · National Technical University of Athens · [users.ntua.gr/dims](https://users.ntua.gr/dims/)
+**Dimitrios Sargiotis** · National Technical University of Athens · [users.ntua.gr/dims](https://users.ntua.gr/dims/) · [uomoathens.github.io](https://uomoathens.github.io/)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23242130.svg)](https://doi.org/10.5281/zenodo.23242130)
 
